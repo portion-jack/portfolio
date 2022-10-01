@@ -24,8 +24,9 @@
 
 ## :pushpin: License
 - Programming:
-    - ADsP(Advanced Data Analytics Semi-Professional)
-    - SQLD(SQL Developer)
+    - ADsP(Advanced Data Analytics Semi-Professional) (2022_06_17)
+
+    - SQLD(SQL Developer) (2022_06_24)
 
 - Language:
     - TOEIC 915 (2022_08_07~2024_08_07)
