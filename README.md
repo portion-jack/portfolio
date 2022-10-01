@@ -26,5 +26,6 @@
 - Programming:
     - ADsP(Advanced Data Analytics Semi-Professional)
     - SQLD(SQL Developer)
-- Language
-    -TOEIC 915 (2022_08_07~2024_08_07)
+
+- Language:
+    - TOEIC 915 (2022_08_07~2024_08_07)
