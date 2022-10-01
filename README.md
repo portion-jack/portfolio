@@ -15,7 +15,16 @@
 
 ## :pushpin: Project
 - #### 서울시 빅데이터 캠퍼스 공모전
-- ##### Topic: "전기차 충전소 최적의 입지선정"
+- Topic: "전기차 충전소 최적의 입지선정"
     - 인력 구성 : 3인
 - 주요 역할 : 데이터 전처리 및 데이터 좌표계 시각화
+- 우수상
+
 </br>
+
+## :pushpin: License
+- Programming:
+    - ADsP(Advanced Data Analytics Semi-Professional)
+    - SQLD(SQL Developer)
+- Language
+    -TOEIC 915 (2022_08_07~2024_08_07)
